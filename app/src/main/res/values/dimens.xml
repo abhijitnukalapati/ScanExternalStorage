@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="space">10dp</dimen>
+    <dimen name="large_space">15dp</dimen>
+    <dimen name="xlarge_space">20dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clover</string>
+    <string name="note_storage_permissions">In order to display the directory and file sizes, we will be accessing
+        your storage. Please accept the permission request that will be shown on the subsequent screen.</string>
+    <string name="okay">Okay</string>
+    <string name="storage_permission_rationale">Storage permission is required to display file sizes</string>
+</resources>
